@@ -37,7 +37,7 @@ This is a simple Tic Tac Toe game where you can play against an AI. The game use
 - Press the 'R' key to restart the game.
 
 ## Project Structure
-
+.
 ├── constants.py     # Contains game constants like colors and dimensions
 ├── drawing.py       # Functions for drawing the game board and figures
 ├── game_logic.py    # Game logic including move validation and the minimax algorithm
